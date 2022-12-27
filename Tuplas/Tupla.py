@@ -6,3 +6,5 @@ tupla = ("Angel",17,1.76)
 print(tupla[0]) #Podemos navegar entre ellas
 
 print(tupla[:2]) #O usar un slice, entre otras cosas
+
+print(len(tupla))
